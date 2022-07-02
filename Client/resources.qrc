@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>notification.png</file>
+        <file>test.png</file>
+    </qresource>
+</RCC>
